@@ -107,10 +107,4 @@ Test your code with different inputs to ensure it works for various cases:
 ### Space Complexity:
 
 - **O(1)**: You're using only one extra variable (max), so the space complexity is constant O(1).
-
-## Step 7: Reflect and Improve
-
-After solving the problem, reflect on your approach:
-
-- Did you miss any edge cases? (For instance, when all numbers are the same.)
-- Is the solution efficient for large inputs? (Yes, since it runs in linear time.)
+  
